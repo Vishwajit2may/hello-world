@@ -31,7 +31,7 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>-->
-   <h1> Enjoy Financing..Avinash..</h1>
+   <h1> Enjoy Financing..Avinash New..</h1>
    <h1> Thankyou, See you again! </h1>
 
   
